@@ -11,7 +11,10 @@
     "express": "^4.18.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+<<<<<<< HEAD
     "react-scripts": "5.0.1",
+=======
+>>>>>>> 4e3dcd6 (atualizando td)
     "web-vitals": "^2.1.4"
   },
   "scripts": {
@@ -37,5 +40,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
+=======
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+>>>>>>> 4e3dcd6 (atualizando td)
   }
 }
