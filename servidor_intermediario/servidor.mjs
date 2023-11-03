@@ -1,12 +1,5 @@
 import express from 'express';
 
-<<<<<<< HEAD
-// Resto do seu código
-
-
-
-=======
->>>>>>> 4e3dcd6 (atualizando td)
 import fetch from 'node-fetch';
 
 // Resto do seu código
